@@ -89,3 +89,7 @@ This is when run = apply
 Configure Git workflow with branch protection, code reviews, and approval processes
 
 ![1756629307873](image/README/1756629307873.png)
+
+![1756632922466](image/README/1756632922466.png)
+
+This pipeline validates Terraform code on PRs, and when changes reach main, it automatically provisions resources in AWS and notifies your Slack channel.
