@@ -83,3 +83,9 @@ This is when run = plan
 This is when run = apply
 
 ![1756524032020](image/README/1756524032020.png)
+
+## Version Control Integration
+
+Configure Git workflow with branch protection, code reviews, and approval processes
+
+![1756629307873](image/README/1756629307873.png)
